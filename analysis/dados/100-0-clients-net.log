@@ -1,0 +1,188 @@
+Waiting for first packet to arrive (see sourceforge.net bug 1019381)
+Adding local address: 192.168.15.49
+Adding local address: 2804:431:cfe0:2c39:886d:2ba7:cb54:ccc8
+Adding local address: 2804:431:cfe0:2c39:f65b:852d:23c9:5278
+Adding local address: fe80::7e6e:ac6:5aaf:c758
+Ethernet link detected
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0472656	0.034375
+unknown TCP/0/0	0	0
+
+Refreshing:
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0472656	0.034375
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+unknown TCP/0/0	0	0
+
+Refreshing:
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0472656	0.034375
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/226483/0	3.87559	4.98223
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0472656	0.034375
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/226483/0	4.7543	5.66836
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0472656	0.034375
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/226483/0	5.87344	6.56621
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0	0
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.034375	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/226483/0	6.72051	7.25293
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0472656	0.034375
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/226483/0	3.94668	3.18125
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0472656	0.034375
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/226483/0	3.89531	3.16855
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0472656	0.034375
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/226483/0	3.91699	3.18203
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0640625	0.0511719
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/226483/0	3.91543	3.18125
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0167969	0.0167969
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/226483/0	3.92363	3.18145
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0640625	0.0511719
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/226483/0	4.77891	3.86836
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0640625	0.0511719
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/226483/0	3.92168	3.18125
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0472656	0.034375
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/226483/0	4.44668	3.63047
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0472656	0.034375
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/226483/0	3.92559	3.18164
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/226483/0	3.96543	3.18125
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0472656	0.034375
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/226483/0	4.49668	3.63047
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0472656	0.034375
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/226483/0	4.51445	3.64355
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0472656	0.034375
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/226483/0	4.51445	3.64355
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0472656	0.034375
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/226483/0	4.51445	3.64355
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0472656	0.034375
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/226483/0	0.841211	0.686133
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0472656	0.034375
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0128906	0.0128906
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/226483/0	0.841211	0.686133
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0472656	0.034375
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/226483/0	0.841211	0.686133
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0472656	0.034375
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/226483/0	0.841211	0.686133
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0472656	0.034375
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/226483/0	0.841211	0.686133
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0472656	0.034375
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+unknown TCP/0/0	0	0
+
+Refreshing:
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0472656	0.034375
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+./bin/broker/226483/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0472656	0.034375
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+./bin/broker/226483/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0472656	0.034375
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+./bin/broker/226483/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0472656	0.034375
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+./bin/broker/226483/0	0	0
+unknown TCP/0/0	0	0

@@ -1,0 +1,363 @@
+Waiting for first packet to arrive (see sourceforge.net bug 1019381)
+Adding local address: 192.168.15.49
+Adding local address: 2804:431:cfe0:2c39:886d:2ba7:cb54:ccc8
+Adding local address: 2804:431:cfe0:2c39:f65b:852d:23c9:5278
+Adding local address: fe80::7e6e:ac6:5aaf:c758
+Ethernet link detected
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+192.168.15.49:8811-192.168.15.76:56172/0/0	0.537891	0.737109
+192.168.15.49:8812-192.168.15.76:50408/0/0	0.537891	0.737109
+192.168.15.49:8810-192.168.15.76:50412/0/0	0.527344	0.722656
+192.168.15.49:8808-192.168.15.76:48310/0/0	0.516797	0.708203
+192.168.15.49:8809-192.168.15.76:52320/0/0	0.0316406	0.0433594
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/234914/0	3.59004	4.75781
+192.168.15.49:8811-192.168.15.76:56172/0/0	1.07578	1.47422
+192.168.15.49:8812-192.168.15.76:50408/0/0	1.07578	1.47422
+192.168.15.49:8810-192.168.15.76:50412/0/0	1.06523	1.45977
+192.168.15.49:8808-192.168.15.76:48310/0/0	1.05469	1.44531
+192.168.15.49:8809-192.168.15.76:52320/0/0	0.569531	0.780469
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.0472656	0.034375
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/234914/0	4.44473	5.43086
+192.168.15.49:8811-192.168.15.76:56172/0/0	1.61367	2.21133
+192.168.15.49:8812-192.168.15.76:50408/0/0	1.61367	2.21133
+192.168.15.49:8810-192.168.15.76:50412/0/0	1.60312	2.19688
+192.168.15.49:8808-192.168.15.76:48310/0/0	1.59258	2.18242
+192.168.15.49:8809-192.168.15.76:52320/0/0	1.10742	1.51758
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.11875	0.034375
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/234914/0	5.61094	6.3416
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.15156	2.94844
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.15156	2.94844
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.14102	2.93398
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.13047	2.91953
+192.168.15.49:8809-192.168.15.76:52320/0/0	1.64531	2.25469
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.131641	0.0951172
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/234914/0	6.48496	7.02852
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.68945	3.68555
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.68945	3.68555
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.67891	3.67109
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.66836	3.65664
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.1832	2.9918
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.131641	0.0951172
+unknown TCP/0/0	0	0
+
+Refreshing:
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.15156	2.94844
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.15156	2.94844
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.15156	2.94844
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.15156	2.94844
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.15156	2.94844
+./bin/broker/234914/0	3.71836	2.94375
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.155859	0.0607422
+unknown TCP/0/0	0	0
+
+Refreshing:
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.68945	3.68555
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.68945	3.68555
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.68945	3.68555
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.68945	3.68555
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.68945	3.68555
+./bin/broker/234914/0	4.59043	3.63047
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.216016	0.155859
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/234914/0	4.00059	3.18164
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.15156	2.94844
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.15156	2.94844
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.15156	2.94844
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.15156	2.94844
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.15156	2.94844
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.131641	0.0951172
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/234914/0	4.78652	3.85469
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.68945	3.68555
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.68945	3.68555
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.68945	3.68555
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.68945	3.68555
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.68945	3.68555
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.131641	0.0951172
+unknown TCP/0/0	0	0
+
+Refreshing:
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.68945	3.68555
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.68945	3.68555
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.68945	3.68555
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.68945	3.68555
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.68945	3.68555
+./bin/broker/234914/0	4.48418	3.63047
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.216016	0.155859
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+unknown TCP/0/0	0	0
+
+Refreshing:
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.68945	3.68555
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.68945	3.68555
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.68945	3.68555
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.68945	3.68555
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.68945	3.68555
+./bin/broker/234914/0	4.47695	3.64355
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.216016	0.155859
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/234914/0	3.78906	3.16855
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.15156	2.94844
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.15156	2.94844
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.15156	2.94844
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.15156	2.94844
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.15156	2.94844
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.131641	0.0951172
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+unknown TCP/0/0	0	0
+
+Refreshing:
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.65781	3.64219
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.17266	2.97734
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.16211	2.96289
+./bin/broker/234914/0	3.59824	2.95742
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.15156	2.94844
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.15156	2.94844
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.216016	0.155859
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+unknown TCP/0/0	0	0
+
+Refreshing:
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.68945	3.68555
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.68945	3.68555
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.68945	3.68555
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.68945	3.68555
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.68945	3.68555
+./bin/broker/234914/0	4.46445	3.64355
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.216016	0.155859
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/234914/0	3.87031	3.16855
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.15156	2.94844
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.15156	2.94844
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.15156	2.94844
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.15156	2.94844
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.15156	2.94844
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.131641	0.0951172
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+./bin/broker/234914/0	4.75488	3.85527
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.68945	3.68555
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.68945	3.68555
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.68945	3.68555
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.68945	3.68555
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.68945	3.68555
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.216016	0.155859
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.65781	3.64219
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.17266	2.97734
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.16211	2.96289
+./bin/broker/234914/0	3.65488	2.95684
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.15156	2.94844
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.15156	2.94844
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.131641	0.0951172
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.68945	3.68555
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.68945	3.68555
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.68945	3.68555
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.68945	3.68555
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.68945	3.68555
+./bin/broker/234914/0	3.65488	2.95684
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.131641	0.0951172
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.65781	3.64219
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.17266	2.97734
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.16211	2.96289
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.15156	2.94844
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.15156	2.94844
+./bin/broker/234914/0	1.99453	1.59746
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.216016	0.155859
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.68945	3.68555
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.68945	3.68555
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.68945	3.68555
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.68945	3.68555
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.68945	3.68555
+./bin/broker/234914/0	1.99453	1.59746
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.216016	0.155859
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+unknown TCP/0/0	0	0
+
+Refreshing:
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.68945	3.68555
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.68945	3.68555
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.68945	3.68555
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.68945	3.68555
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.68945	3.68555
+./bin/broker/234914/0	0.828711	0.686133
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.131641	0.0951172
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+unknown TCP/0/0	0	0
+
+Refreshing:
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.68945	3.68555
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.68945	3.68555
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.68945	3.68555
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.68945	3.68555
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.68945	3.68555
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.216016	0.155859
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+./bin/broker/234914/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.68945	3.68555
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.68945	3.68555
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.68945	3.68555
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.68945	3.68555
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.68945	3.68555
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.216016	0.155859
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+./bin/broker/234914/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.15156	2.94844
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.15156	2.94844
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.15156	2.94844
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.15156	2.94844
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.15156	2.94844
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.821484	0.408008
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0	0
+./bin/broker/234914/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	1.7043	4.81914
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.68945	3.68555
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.68945	3.68555
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.68945	3.68555
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.68945	3.68555
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.68945	3.68555
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0	0
+./bin/broker/234914/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	2.97227	9.78691
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.68945	3.68555
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.68945	3.68555
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.68945	3.68555
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.68945	3.68555
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.68945	3.68555
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0	0
+./bin/broker/234914/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	3.22754	10.6775
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.68945	3.68555
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.68945	3.68555
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.68945	3.68555
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.68945	3.68555
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.68945	3.68555
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0	0
+./bin/broker/234914/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	3.29902	10.6775
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.68945	3.68555
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.68945	3.68555
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.68945	3.68555
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.68945	3.68555
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.68945	3.68555
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0	0
+./bin/broker/234914/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	1.73926	6.01426
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.65781	3.64219
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.17266	2.97734
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.16211	2.96289
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.15156	2.94844
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.15156	2.94844
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0	0
+./bin/broker/234914/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.15156	2.94844
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.15156	2.94844
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.15156	2.94844
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.15156	2.94844
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.15156	2.94844
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.471289	1.04648
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0128906	0.0128906
+./bin/broker/234914/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.15156	2.94844
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.15156	2.94844
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.15156	2.94844
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.15156	2.94844
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.15156	2.94844
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	0.620703	2.05449
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+./bin/broker/234914/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	10.4035	165.078
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.15156	2.94844
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.15156	2.94844
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.15156	2.94844
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.15156	2.94844
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.15156	2.94844
+192.168.15.49:40434-18.65.48.65:443/0/0	0.20332	1.16133
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+./bin/broker/234914/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/snap/chromium/1967/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3598458924813345461,2499628472461368413,131072/2951/1000	15.6695	244.276
+192.168.15.49:8810-192.168.15.76:50412/0/0	2.15156	2.94844
+192.168.15.49:8811-192.168.15.76:56172/0/0	2.15156	2.94844
+192.168.15.49:8809-192.168.15.76:52320/0/0	2.15156	2.94844
+192.168.15.49:8808-192.168.15.76:48310/0/0	2.15156	2.94844
+192.168.15.49:8812-192.168.15.76:50408/0/0	2.15156	2.94844
+192.168.15.49:40434-18.65.48.65:443/0/0	0.20332	1.16133
+/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd/2579/1000	0.0257812	0.0257812
+./bin/broker/234914/0	0	0
+unknown TCP/0/0	0	0
