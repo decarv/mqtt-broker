@@ -56,6 +56,9 @@ void session_free(struct session_data *session)
 {
     if (session != NULL) {
         packet_free(session->packet);
+        SAFE_FREE(session->topic);
+        SAFE_FREE(session->topicfp);
+        SAFE_FREE(session->topicname);
         SAFE_FREE(session);
     }
 }
@@ -118,7 +121,9 @@ void packet_free(struct control_packet *packet)
 {
     if (packet != NULL) {
         SAFE_FREE(packet->payload);
+        SAFE_FREE(packet->payloadmsg);
         SAFE_FREE(packet->fixed_header);
+        SAFE_FREE(packet->variable_header);
         SAFE_FREE(packet);
     }
 }
