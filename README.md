@@ -1,6 +1,6 @@
 # BROKER MQTT v.0.1
 
-## CONTENT OF THIS FILE
+## Content
 
  * Introduction
  * Structure
@@ -11,7 +11,7 @@
  * Author
 
 
-## INTRODUCTION
+## Introduction
 
 The content of this repository is the implementation of a Broker MQTT Version 3.1.1, according to the
 OASIS specifications. The structure, operation and instructions for compiling and running the
@@ -22,7 +22,7 @@ include/* path. Also, all files contain their own header in the form of a commen
 explaining the contents of the file.
 
 
-## STRUCTURE
+## Structure
 
 In summary, the repository has the following structure:
 ```
@@ -57,7 +57,7 @@ ep1-henrique_carvalho
     └── unit_tests - unit test .c files
 ```
 
-## SETTINGS
+## Settings
 
 Some log settings can be modified before the broker runs. The settings that
 can be edited directly in the include/config.h file:
@@ -69,7 +69,7 @@ TERMCOLORS #1 to enable colors in the terminal and 0 to disable
 By default these settings are enabled.
 
 
-## COMPILATION AND EXECUTION
+## Compilation and Execution
 
 To compile, just access the directory ep1-henrique_carvalho and type `make` in the shell. the binary
 broker will be created in the bin/ directory. The broker is executed by typing the program and the port on which
@@ -90,7 +90,7 @@ Execution example:
 When the above log messages appear, the broker is ready to receive connections.
 
 
-## OPERATION
+## Operation
 
 Every connection with the broker creates a process responsible for the client and this process enters the loop
 of message handling. An incoming message is decoded into a packet and then that message is
@@ -124,7 +124,7 @@ Note that the supported <version> is only 3.1.1 and so if -V is passed it must b
 The broker does not implement wildcards and therefore the attempt to subscribe or publish to topics
 using any wildcard contained in section 4.7 of the specification has undefined behavior.
 
-## TESTS AND PERFORMANCE ANALYSIS
+## Tests and Performance Analysis
 
 Some unit tests were created to test specific functions and specific behavior
 of some parts of the code. These tests are in tests/testes_unitarios, but they are not
@@ -143,11 +143,11 @@ In analyze/notebooks are the codes, in jupyter notebook format, for cleaning the
 and the analyzes performed.
 
 
-## LICENSE
+## License
 
 Licensed under the GNU Public License version 3 (GPLv3).
 
 
-## AUTHOR
+## Author
 
 Henrique de Carvalho <decarv.henrique@gmail.com>
